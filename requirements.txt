@@ -1,3 +1,4 @@
 pillow
 pillow-heif
+pillow-avif-plugin
 ffmpeg-python
